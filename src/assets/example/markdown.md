@@ -101,7 +101,7 @@ Markdown 支持简单的表格，用 `|` 和 `-` 分隔单元格和表头。
 | ------------------------------------------- | ---------------------- | ------------ |
 | [Markdown Design](https://markdown.design)     | markdown.design | markdown.design      |
 | [Markdown Design](https://markdown.design)    | markdown.design | markdown.design |
-| [[Markdown Design](https://markdown.design) | markdown.design   | markdown.design   |
+| [Markdown Design](https://markdown.design) | markdown.design   | markdown.design   |
 
 这样的表格让数据展示更为清爽！
 
