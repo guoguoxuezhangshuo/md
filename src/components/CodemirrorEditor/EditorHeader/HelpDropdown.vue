@@ -5,7 +5,7 @@ const fundDialogVisible = ref(false)
 
 <template>
   <!-- 帮助菜单 -->
-  <MenubarMenuv-if="false">
+  <MenubarMenu v-if="false">
     <MenubarTrigger>帮助</MenubarTrigger>
     <MenubarContent align="start">
       <MenubarCheckboxItem @click="aboutDialogVisible = true">
